@@ -1,4 +1,4 @@
-# Unittests in JS
+# Unittests using JS
 
 This project contains tasks for learning to create unittests in NodeJS.
 
